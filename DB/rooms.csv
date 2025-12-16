@@ -1,0 +1,6 @@
+UnitNumber,UnitCapacity,UnitStatus,BookingID,BasePrice
+101,2,Available,,1500
+102,4,Occupied,BKT-1-151225,3000
+103,3,Available,,2000
+104,2,Maintenance,,1200
+105,1,Available,,1000

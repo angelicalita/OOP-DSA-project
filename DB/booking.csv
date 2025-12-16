@@ -1,1 +1,4 @@
-
+BookingID,Surname,MiddleName,FirstName,PartySize,StartDate,EndDate,Status
+BKT-1-151225,Doe,,John,2,2025-12-20,2025-12-25,PAID
+BKT-2-151225,Smith,A,Jane,4,2025-12-21,2025-12-23,PENDING PAYMENT
+BKT-3-151225,Reyes,,Maria,1,2025-12-22,2025-12-24,REFUNDED
